@@ -45,24 +45,30 @@ Here are some ideas to get you started:
 
 </h1>
 
-  <h3 align="center" > Estudando as tecnologias</h3>
+<h3 align="center" > Estudando as tecnologias</h3>
+
 <div align="center">
+
   <img align="center" alt="gvao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gvao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="gvao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <!-- <img align="center" alt="gvao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+  <!-- <img align="center" alt="gvao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="gvao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gvao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
- <div align="center">
-  <br>
-<h3>Quer falar comigo? </h3>
-    <div>
 
-  <a href="https://instagram.com/gvao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://wa.me/5511992359072"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-      <a href = "mailto:gbldja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gvao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+    <br>
+    <h3>Quer falar comigo? </h3>
+<div>
+
+<a href="https://www.instagram.com/yuri.gvao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<a href = "https://wa.me/5585992915328"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+<a href = "mailto:yuri.gvao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<!-- <a href="https://www.linkedin.com/in/gvao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 
   </div>
 <br>
@@ -86,13 +92,10 @@ Here are some ideas to get you started:
     </a>
   </div>
   <br>
-<img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=gvao&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</h1>
+<!-- <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=gvao&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</h1> -->
 
-  <!--Metricas github-->
-<!-- ![GitHub metrics](https://metrics.lecoq.io/gvao)  -->
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/gvao/gvao/output/github-contribution-grid-snake.svg)
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/gvao/gvao/output/github-contribution-grid-snake.svg) -->
 
 ![Profile views](https://gpvc.arturio.dev/gvao)
   
