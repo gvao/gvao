@@ -36,7 +36,7 @@ Aqui estão algumas das tecnologias com as quais estou trabalhando e estudando:
 ## 📫 Como me encontrar
 
 <div align="center" style="display:flex; gap: 16px ; align-items: center;">
-    <a href="https://wa.me/5585992915328" target="_blank">
+    <a href="https://wa.me/5521985579893" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/yuri-galvao/" target="_blank">
