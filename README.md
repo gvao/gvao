@@ -65,11 +65,11 @@ align-items: center;
   <a style="flex: 1 0 400px" href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="GitHub Metrics" align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=gvao&theme=tokyonight&border=61dafb&hide_border=true"/>
   </a>
-  <a style="flex: 1 0 400px" href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a style="flex: 1 0 400px" href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="GitHub Streak Stats" align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=gvao&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true"/>
-  </a>
+  </a> -->
 </div>
-<br><br><br><br><br>
+<!-- <br><br><br><br><br>
 <div align=center>
   <a style="flex: 1 0 400px" href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Top Langs" align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvao&hide=TeX&layout=compact&theme=tokyonight&border_color=61dafb&hide_border=true" />
@@ -78,7 +78,7 @@ align-items: center;
 <br>
 
 <!-- Visualizações do perfil -->
-![Profile Views](https://gpvc.arturio.dev/gvao)
+<!-- ![Profile Views](https://gpvc.arturio.dev/gvao) --> -->
 
 <!-- Conclusão -->
 Se você está procurando um desenvolvedor web dedicado, criativo e comprometido, estou à disposição para colaborar em projetos interessantes. Fique à vontade para entrar em contato comigo através das informações acima. Vamos construir algo incrível juntos!
