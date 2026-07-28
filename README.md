@@ -1,6 +1,6 @@
 # Yuri Galvão - Desenvolvedor Web
 
-<p 
+<p
 style="
   width: 100%;
   align-items: center;
@@ -8,8 +8,12 @@ style="
   display: flex;"
 >
 
-  <a>
-    <img align="center" style="width: fit-content" src="https://readme-typing-svg.herokuapp.com/?lines=''+Olá,+seja+bem+vindo!+👋;Sou+Yuri+Galvão;Prazer+em+conhecer+você!&center=true&size=30">
+  <a style="width: 100%; justify-items: center; align-items: center;" >
+    <img
+      align="center"
+
+      src="https://readme-typing-svg.herokuapp.com/?lines=''+Olá,+seja+bem+vindo!+👋;Sou+Yuri+Galvão;Prazer+em+conhecer+você!&center=true&size=30"
+    >
   </a>
 
 </p>
@@ -41,9 +45,9 @@ Aqui estão algumas das tecnologias com as quais estou trabalhando e estudando:
 
 ## 📫 Como me encontrar
 
-<div 
-  align="center" 
-  width="100%" 
+<div
+  align="center"
+  width="100%"
   style="display:flex; flex-wrap: wrap; justify-content: space-evenly; align-items: center; flex-direction: row;"
 >
     <a href="https://wa.me/5521985579893" target="_blank">
@@ -88,7 +92,7 @@ align-items: center;
 <br>
 
 <!-- Visualizações do perfil -->
-<!-- ![Profile Views](https://gpvc.arturio.dev/gvao) --> 
+<!-- ![Profile Views](https://gpvc.arturio.dev/gvao) -->
 
 <!-- Conclusão -->
 Se você está procurando um desenvolvedor web dedicado, criativo e comprometido, estou à disposição para colaborar em projetos interessantes. Fique à vontade para entrar em contato comigo através das informações acima. Vamos construir algo incrível juntos!
