@@ -11,7 +11,7 @@ style="
   <a style="width: 100%; justify-items: center; align-items: center;" >
     <img
       align="center"
-      src="https://readme-typing-svg.herokuapp.com/?lines=''+Olá,+seja+bem+vindo!+👋;Sou+Yuri+Galvão;Prazer+em+conhecer+você!&center=true&size=30"
+      src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+seja+bem+vindo!+👋;Sou+Yuri+Galvão;Prazer+em+conhecer+você!&center=true&size=30"
     >
   </a>
 
