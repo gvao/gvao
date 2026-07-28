@@ -1,9 +1,15 @@
 # Yuri Galvão - Desenvolvedor Web
 
-<p align="center">
+<p 
+style="
+  width: 100%;
+  align-items: center;
+  justify-content: center
+  display: flex;"
+>
 
   <a>
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=''+Olá,+seja+bem+vindo!+👋;Sou+Yuri+Galvão;Prazer+em+conhecer+você!&center=true&size=30">
+    <img align="center" style="width: fit-content" src="https://readme-typing-svg.herokuapp.com/?lines=''+Olá,+seja+bem+vindo!+👋;Sou+Yuri+Galvão;Prazer+em+conhecer+você!&center=true&size=30">
   </a>
 
 </p>
@@ -21,7 +27,7 @@ Olá, seja bem-vindo ao meu perfil! Sou Yuri Galvão, um desenvolvedor web apaix
 
 Aqui estão algumas das tecnologias com as quais estou trabalhando e estudando:
 
-<div align="center" width="100%" style="display:flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+<div align="center" width="100%" style="display:flex; flex-wrap: wrap; justify-content: space-between; align-items: center; flex-direction: row;">
 
   <img align="center" alt="gvao-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gvao-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,7 +41,11 @@ Aqui estão algumas das tecnologias com as quais estou trabalhando e estudando:
 
 ## 📫 Como me encontrar
 
-<div align="center" style="display:flex; gap: 16px ; align-items: center;">
+<div 
+  align="center" 
+  width="100%" 
+  style="display:flex; flex-wrap: wrap; justify-content: space-evenly; align-items: center; flex-direction: row;"
+>
     <a href="https://wa.me/5521985579893" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
@@ -78,7 +88,7 @@ align-items: center;
 <br>
 
 <!-- Visualizações do perfil -->
-<!-- ![Profile Views](https://gpvc.arturio.dev/gvao) --> -->
+<!-- ![Profile Views](https://gpvc.arturio.dev/gvao) --> 
 
 <!-- Conclusão -->
 Se você está procurando um desenvolvedor web dedicado, criativo e comprometido, estou à disposição para colaborar em projetos interessantes. Fique à vontade para entrar em contato comigo através das informações acima. Vamos construir algo incrível juntos!
